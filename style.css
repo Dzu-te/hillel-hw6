@@ -31,3 +31,37 @@ td {
 .td195 {
   width: 120px;
 }
+
+.td1,
+.td162 {
+  height: 60px;
+}
+
+.td35,
+.td98 {
+  height: 120px;
+}
+
+.td194 {
+  height: 60px;
+}
+
+.td3,
+.td35,
+.td193 {
+  background-color: yellow;
+}
+
+.td34,
+.td196 {
+  background-color: red;
+}
+
+.td161,
+.td226 {
+  background-color: black;
+}
+
+.td195 {
+  background-color: blue;
+}

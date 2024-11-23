@@ -19,3 +19,23 @@ td {
   width: 30px;
   height: 30px;
 }
+
+.td3,
+.td37,
+.td205 {
+  background-color: yellow;
+}
+
+.td36,
+.td208 {
+  background-color: red;
+}
+
+.td171,
+.td240 {
+  background-color: black;
+}
+
+.td207 {
+  background-color: blue;
+}
